@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Except the .gitignore file itself
+!.gitignore
+
+# Except Hyprland-related directories
+!hypr/
+!hypr/**
+!rofi/
+!rofi/**
+!waybar/
+!waybar/**
+!wlogout/
+!wlogout/**
+

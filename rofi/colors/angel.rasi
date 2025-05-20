@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Jose Angel Guidos
+ * Github : @angelguidos
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #111422;
+    background-alt: #282839FF;
+    foreground:     #bcc1dc;
+    selected:       #8eb0e64d;
+    active:         #ABE9B3FF;
+    urgent:         #F28FADFF; 
+}
