@@ -14,7 +14,7 @@
 
 {
     "label": "suspend",
-    "action": "lockscreen.sh & disown && systemctl suspend",
+    "action": "$HOME/.config/hypr/scripts/LockScreen.sh && disown && systemctl suspend",
     "text": "Suspend",
     "keybind": "u"
 }
